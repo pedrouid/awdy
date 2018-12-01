@@ -7,3 +7,4 @@ url: "https://ummjackson.github.io/awdy/"
 
 # Build settings
 markdown: kramdown
+theme: jekyll-theme-cayman
